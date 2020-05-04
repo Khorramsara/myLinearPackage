@@ -1,0 +1,18 @@
+Package: myLinearPackage
+Title: Linear Regression Analysis
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sara",
+           family = "Khorramshahgol",
+           role = c("aut", "cre"),
+           email = "sarak98@vt.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Creates  a scatterplot  of  each pair  of covariates. Also creates a linear regression of Y on X. Written by Sara Khorramshahgol
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Depends: 
+    R (>= 2.10)
